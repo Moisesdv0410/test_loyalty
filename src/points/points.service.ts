@@ -1,4 +1,3 @@
-// src/points/points.service.ts
 import {
   Injectable,
   NotFoundException,
